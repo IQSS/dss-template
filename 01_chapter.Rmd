@@ -1,0 +1,51 @@
+# This is a section
+
+Here's how we embed an image:
+
+![](Images/readme-license.png)
+
+And here's how we embed a [URL](https://dss.iq.harvard.edu/).
+
+## This is a subsection
+
+Text for my subsection.
+
+### This is a subsubsection
+
+Text for my subsubsection.
+
+## Lists
+
+This is a numbered list:
+
+1. Item 1
+  + sub-item1
+  + sub-item2
+2. Item 2
+  + sub-item1
+  + sub-item2
+
+This is an unnumbered list:
+
+* Item 1
+  + sub-item1
+  + sub-item2
+* Item 2
+  + sub-item1
+  + sub-item2
+
+
+## Text emphasis
+
+We can emphasize text by using **bold** or *italics*
+
+
+## Embedding code
+
+We can embed code in blocks:
+
+```{r, eval=FALSE}
+install.packages('my-package')
+```
+
+Or we can embed code inline: `print()`
