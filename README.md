@@ -1,4 +1,4 @@
-# Rbuild - An R package development tutorial
+# A template for the DSS team
 ![](https://travis-ci.org/IQSS/dss-rbuild.svg?branch=master) [![Github All Releases](https://img.shields.io/github/downloads/IQSS/dss-rbuild/total.svg)]()
 
 ## Media
