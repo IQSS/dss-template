@@ -23,7 +23,7 @@ This repo contains boilerplate configuration files and Rmarkdown files necessary
 1. Click on the green button **Use this template** to [create a new remote repo from this template](https://help.github.com/en/articles/creating-a-repository-from-a-template)
 2. Set up a continuous integration (CI) provider ([Travis CI](https://docs.travis-ci.com/user/tutorial/), or [AppVeyor](https://www.appveyor.com/docs/)). This involves:
     + linking the CI provider to your GitHub account.
-    + creating a GutHub personal access token (e.g., '$GITHUB_PAT') and associate this with the repo within the CI provider.
+    + creating a GutHub personal access token (e.g., 'GITHUB_PAT') and associate this with the repo within the CI provider.
     + activating CI for the new remote repo.
 3. Clone the remote repo to a local directory.
 4. Add content to the Rmarkdown files locally. When this is pushed to the remote, the CI provider will build and deploy the GitHub pages website, pdf, and epub formats of the tutorial/workshop.
