@@ -42,7 +42,7 @@ We can emphasize text by using **bold** or *italics*
 
 ## Embedding code
 
-We can embed R code in blocks. The blocks can be run (evaluated) or just printed:
+We can embed R code in blocks. The blocks can either be run (evaluated) or just printed:
 
 ```{r-setup, eval=FALSE}
 # install.packages('reticulate')
@@ -51,7 +51,7 @@ use_python("~/anaconda3/bin/python") # use anaconda python on Mac
 use_python("C:/Users/<username>/Anaconda3/python.exe") # use anaconda python on Windows
 ```
 
-We can also [include Python code blocks in Rmarkdown](https://rstudio.github.io/reticulate/articles/r_markdown.html) using the `reticulate` package, once it is [installed](https://rstudio.github.io/reticulate/index.html).
+We can also [embed Python code blocks within Rmarkdown](https://rstudio.github.io/reticulate/articles/r_markdown.html) using the `reticulate` package, once it is [installed](https://rstudio.github.io/reticulate/index.html).
 
 ```{python, eval=FALSE}
 flights = pandas.read.csv('flights.csv')
