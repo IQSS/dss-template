@@ -1,11 +1,11 @@
 # A template for DSS team tutorials and workshops
-![](https://travis-ci.org/IQSS/dss-rbuild.svg?branch=master) [![Github All Releases](https://img.shields.io/github/downloads/IQSS/dss-rbuild/total.svg)]()
+![](https://travis-ci.org/IQSS/dss-template.svg?branch=master) [![Github All Releases](https://img.shields.io/github/downloads/IQSS/dss-template/total.svg)]()
 
 ## Media
 View this tutorial/workshop via a:
-* [browser](https://iqss.github.io/dss-rbuild/)
-* [PDF](https://github.com/IQSS/dss-rbuild/blob/gh-pages/Rbuild.pdf)
-* [EPUB](https://github.com/IQSS/dss-rbuild/blob/gh-pages/Rbuild.epub)
+* [browser](https://iqss.github.io/dss-template/)
+* [PDF](https://github.com/IQSS/dss-template/blob/gh-pages/template.pdf)
+* [EPUB](https://github.com/IQSS/dss-template/blob/gh-pages/template.epub)
 
 ## Aim
 To provide a boilerplate repo to start a new tutorial/workshop.
