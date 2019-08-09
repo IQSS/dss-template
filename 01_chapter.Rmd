@@ -2,7 +2,7 @@
 
 Here's how we embed an image:
 
-![](Images/readme-license.png)
+![](mages/readme-license.png)
 
 And here's how we embed a URL [DSS](https://dss.iq.harvard.edu/).
 
